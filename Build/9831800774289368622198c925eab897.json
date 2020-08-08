@@ -1,0 +1,13 @@
+{
+"companyName": "SixMens",
+"productName": "LYRICO",
+"dataUrl": "7d65eab410869958bd4c1388c240317f.unityweb",
+"wasmCodeUrl": "2cf3e2b827f6651dafbbc0061d2045fc.unityweb",
+"wasmFrameworkUrl": "8410e17c48be23c82820befd97c4bef1.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#303030",
+"cacheControl": {"default": "must-revalidate"}
+}
